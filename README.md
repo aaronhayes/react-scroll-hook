@@ -1,7 +1,7 @@
 # React Scroll Hook
 
 [![npm (scoped)](https://img.shields.io/npm/v/@aaronhayes/react-scroll-hook?style=flat-square)](https://www.npmjs.com/package/@aaronhayes/react-scroll-hook)
-[![Bundle Size](https://img.shields.io/bundlephobia/min/@aaronhayes/react-scroll-hook?style=flat-square)](https://bundlephobia.com/result?p=@aaronhayes/react-scroll-hook@1.0.0)
+[![Bundle Size](https://img.shields.io/bundlephobia/min/@aaronhayes/react-scroll-hook?style=flat-square)](https://bundlephobia.com/result?p=@aaronhayes/react-scroll-hook)
 ![License](https://img.shields.io/npm/l/@aaronhayes/react-scroll-hook?style=flat-square)
 
 Hook for watching vertical scrolling location when using [React Scroll](https://github.com/fisshy/react-scroll)
