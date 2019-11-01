@@ -1,6 +1,6 @@
 {
   "name": "@aaronhayes/react-scroll-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The easiest way to detect current element in view when using react-scroll",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
