@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Events, scroller } from 'react-scroll';
-import debounce from 'lodash/debounce';
+import debounce from 'lodash.debounce';
 
 function useScrollSpy(): string | undefined {
   const [current, setCurrent] = useState<string>();
